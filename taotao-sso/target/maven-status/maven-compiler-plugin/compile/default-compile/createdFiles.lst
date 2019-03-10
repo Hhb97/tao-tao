@@ -1,0 +1,9 @@
+com\taotao\sso\dao\redisCleentcluster.class
+com\taotao\sso\service\UserService.class
+com\taotao\sso\conterller\Pagecontorller.class
+com\taotao\sso\conterller\CheckUserController.class
+com\taotao\sso\dao\redisClent.class
+com\taotao\sso\conterller\UserLoginContorller.class
+com\taotao\sso\conterller\AddUserContorller.class
+com\taotao\sso\service\UserServiceImp.class
+com\taotao\sso\conterller\GettokenCentorler.class
